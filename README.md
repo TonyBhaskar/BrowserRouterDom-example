@@ -1,4 +1,4 @@
-# React Single-Page Application (SPA) with Routing and Navigation
+# React Single-Page Application with Routing and Navigation
 
 This is a simple React SPA that demonstrates routing and navigation using React Router DOM. It includes the following components:
 

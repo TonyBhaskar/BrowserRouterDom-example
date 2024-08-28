@@ -4,7 +4,7 @@ This is a simple React SPA that demonstrates routing and navigation using React 
 
 - `App.js`: The main application component that sets up routing and renders the `Navbar` and content based on the current route.
 - `Navbar.js`: The navigation bar component that displays links to different pages and highlights the active page.
-- `Home.js`, `About.js`, and `Account.js` : Components for each page of the application.
+- `Home.js`, `About.js`, and `Account.js` : Components for each page of the application (Example Components).
 
 ## Prerequisites
 
